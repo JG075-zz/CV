@@ -12,8 +12,8 @@ I'm currently looking for a junior web development role, in an environment where
 
 One of the big reasons I love to code is the challenge of solving a problem or debugging an issue. Some scenarios where I have used my problems solving skills:
 
-* **Building a Virtual Reality car** – Building a Virtual Reality car – There were many challenges I had to overcome to implement a drivable car in our game, such as: learning a new language (C#), utilize motion controls, and understanding in-game physics.
-* **Helping my cohort** – ¥	Solved a tedious problem preventing the use of Capybara (test framework), and shared my solution that helped the rest of my cohort to move forward.
+* **Building a Virtual Reality car** – There were many challenges I had to overcome to implement a drivable car in our game, such as: learning a new language (C#), utilize motion controls, and understanding in-game physics.
+* **Helping my cohort** – Solved a tedious problem preventing the use of Capybara (test framework), and shared my solution that helped the rest of my cohort to move forward.
 * **Improving conversion rates** – Figuring out why conversion rates were low on a website, then improving conversions by using analytics data and A/B split testing.
 * **Debugging computers** – Fixed numerous slow running computers and diagnosed faulty components using a methodical approach.
 
